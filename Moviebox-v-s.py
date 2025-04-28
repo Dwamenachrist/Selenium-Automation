@@ -15,7 +15,7 @@ from selenium.common.exceptions import TimeoutException, NoSuchElementException,
 # ─── CONFIGURATION ─────────────────────────────────────────────────────
 CHROMEDRIVER_PATH = r"C:\Users\Christian\Downloads\Compressed\chromedriver-win64\chromedriver-win64\chromedriver.exe"
 SERIES_URL = (
-    "https://moviebox.ng/movies/are-you-safe-4OK7DTTtA43?id=2580011989393099376&scene=&page_from=search_detail&type=/movie/detail"
+    "https://moviebox.ng/movies/weak-hero-c8debpHF2U7?id=6633755939558542480&scene=&page_from=search_detail&type=/movie/detail&utm_source=PS"
 )
 HEADLESS = True
 MAX_RETRIES = 3
